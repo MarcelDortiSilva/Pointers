@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701438634 source:c:\users\marce\documents\c_programming\const_void_pointers\const_void_pointers.c
+	<stdio.h>
+	<stdlib.h>
+
