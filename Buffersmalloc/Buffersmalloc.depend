@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702571756 source:c:\users\marce\documents\c_programming\buffersmalloc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
